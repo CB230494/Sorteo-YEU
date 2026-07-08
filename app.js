@@ -244,7 +244,7 @@ function actualizarListaDisponibles() {
     : "Sorteo de números";
 
   const fecha = state.sorteo.fechaJuego
-    ? `Fecha de juego: ${formatearFecha(state.sorteo.fechaJuego)}`
+    ? `Fecha del Sorteo: ${formatearFecha(state.sorteo.fechaJuego)}`
     : "";
 
   const premio = state.sorteo.premios
