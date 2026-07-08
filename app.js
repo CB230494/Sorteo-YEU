@@ -3,7 +3,7 @@
   1. Publicá el archivo Code.gs como Web App en Google Apps Script.
   2. Pegá aquí la URL que termina en /exec.
 */
-const API_URL = "1qRwhPjyg6HbhzJAyj3cUFtb9SLaxCx1-2q2yoc9kXWmCs94TalsWzDO6";
+const API_URL = "https://script.google.com/macros/s/AKfycbwsWRFWHqc-Ct_U86VlAd8lYb34W8mR8WLJZpHb4-GM3_Mqbf5G8dPh8ae4h88a6UN5aw/exec";
 
 let state = {
   sorteo: {
